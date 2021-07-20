@@ -1,0 +1,15 @@
+.nav-bg{
+    margin: 0rem 7rem 3rem 7rem;
+    background-color: #F8F9FA;
+}
+.carousel-container{
+    margin-top: 7rem;
+}
+.btn-bg{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    padding: 5px 25px;
+}
+.panda-bg{
+    background-color: #FCEAE8;
+}
